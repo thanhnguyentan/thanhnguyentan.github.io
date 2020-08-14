@@ -11,13 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Vietnam National University Ho Chi Minh City - University of Science, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* Smart World 2017 May: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
